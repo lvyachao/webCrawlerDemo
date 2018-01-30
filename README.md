@@ -13,3 +13,7 @@ Npm Install
 ```Node
 node server.js
 ```
+4. If you want to try nightmare!
+```Node
+node nightmare.js
+```
